@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/DG15062002/count.svg" alt="Visitor's Count" />
-</div>
 
 <br>
 
@@ -57,3 +53,8 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/DG15062002/count.svg" alt="Visitor's Count" />
+</div>
