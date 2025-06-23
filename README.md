@@ -33,6 +33,19 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<br>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c++,c,python,bash,nodejs,react,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,aws,jenkins,docker,terraform,ansible,git,postman" />
+</p>
+
+<hr>
+
 ## ⚡️ Stats
 
 <br>
