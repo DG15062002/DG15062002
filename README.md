@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Dhwaj+Gupta!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### I am a driven software engineer with a passion for crafting innovative solutions that elevate user experiences and propel business growth.
 <!--
 **DG15062002/DG15062002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
