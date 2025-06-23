@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cplusplus,c,python,bash,nodejs,react,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,bash,nodejs,react,mongodb,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,aws,jenkins,docker,terraform,ansible,git,postman" />
 </p>
 
