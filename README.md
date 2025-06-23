@@ -32,3 +32,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=DG15062002&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DG15062002's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DG15062002&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DG15062002's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=DG15062002&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="DG15062002's Most Used Languages" />
+</div>
+
+<hr>
