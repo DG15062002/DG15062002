@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="center">
-  <img src="![Visitors](https://shields.io/endpoint?url=https://api.countapi.xyz/hit/DG15062002/profile-views)"
- alt="Visitor Count" />
-</p>
+## 📊 Visitors
+
+![Visitors](https://shields.io/endpoint?url=https://api.countapi.xyz/hit/DG15062002/my-cool-project)
+![Profile views](https://komarev.com/ghpvc/?username=DG15062002&color=blue&style=flat)
