@@ -56,5 +56,4 @@ Here are some ideas to get you started:
 
 ## 📊 Visitors
 
-![Visitors](https://shields.io/endpoint?url=https://api.countapi.xyz/hit/DG15062002/my-cool-project)
 ![Profile views](https://komarev.com/ghpvc/?username=DG15062002&color=blue&style=flat)
