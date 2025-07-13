@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
-  <img alt="Hits" src="https://hits.sh/DG15062002.svg?style=flat-square&label=Profile%20Views&color=blue&labelColor=gray"/>
+  <img src="https://profile-counter.glitch.me/DG15062002/count.svg" alt="Visitor Count" />
 </p>
