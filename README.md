@@ -54,22 +54,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <p id="visitor-count"></p>
-</div>
-
-<script>
-  const countKey = 'visitor-count';
-  let count = localStorage.getItem(countKey);
-
-  if (!count) {
-    count = 1;
-    localStorage.setItem(countKey, count);
-  } else {
-    count = parseInt(count) + 1;
-    localStorage.setItem(countKey, count);
-  }
-
-  document.getElementById('visitor-count').innerText = count;
-</script>
+<p align="center">
+  <img alt="Hits" src="https://hits.sh/DG15062002.svg?style=flat-square&label=Profile%20Views&color=blue&labelColor=gray"/>
+</p>
