@@ -54,8 +54,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-## 📊 Visitors
-
 <div align="center">
   <h3>📊 Visitor Count</h3>
   <img src="https://komarev.com/ghpvc/?username=DG15062002&color=blue&style=flat" alt="Profile views" style="margin-top: 10px;" />
