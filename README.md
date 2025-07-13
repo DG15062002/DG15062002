@@ -56,5 +56,20 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/DG15062002/count.svg" alt="Visitor's Count" />
+  <p id="visitor-count"></p>
 </div>
+
+<script>
+  const countKey = 'visitor-count';
+  let count = localStorage.getItem(countKey);
+
+  if (!count) {
+    count = 1;
+    localStorage.setItem(countKey, count);
+  } else {
+    count = parseInt(count) + 1;
+    localStorage.setItem(countKey, count);
+  }
+
+  document.getElementById('visitor-count').innerText = count;
+</script>
