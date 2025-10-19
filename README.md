@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python,bash,nodejs,react,mongodb,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,aws,jenkins,docker,terraform,ansible,git,postman" />
-  <img src="https://skillicons.dev/icons?i=kafka,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=kafka,kubernetes,linux,ubuntu" />
 </p>
 
 <hr>
